@@ -4,7 +4,7 @@ Split personality ahh portfolio - Switchfolio is a two-in-one portfolio website 
 
 ## Features
 
-- **Two-in-One Portfolio**: Switch between two portfolios with a button in the top-right corner.
+- **Two-in-One Portfolio**: Switch between two portfolios with a button on the right side of the navbar.
 - **Info Card**: Showcases basic information about the user.
 - **About Me**: A brief introduction about yourself.
 - **Hire Me**: A section where users can inquire about hiring you.
