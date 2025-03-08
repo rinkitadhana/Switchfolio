@@ -1,6 +1,6 @@
-# Switchfolio
+# Split personality ahh portfolio - Switchfolio
 
-**Switchfolio** is a two-in-one portfolio website that allows users to switch between two portfolios with a button on the top right. This clean, minimalistic website features a great UI/UX design and sleek animations, making it a perfect fit for showcasing personal projects and skills.
+Split personality ahh portfolio - Switchfolio is a two-in-one portfolio website that allows users to switch between two portfolios with a button. This minimalistic website features a great UI/UX design and sleek animations, making it a perfect fit for showcasing personal projects and skills.
 
 ## Features
 
